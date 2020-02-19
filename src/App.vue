@@ -6,10 +6,6 @@
       temporary>
       <template v-slot:prepend>
         <v-list-item two-line class="py-4">
-          <!-- <v-list-item-avatar>
-            <img src="https://randomuser.me/api/portraits/women/81.jpg">
-          </v-list-item-avatar> -->
-
           <v-list-item-content>
             <v-list-item-title>我那覇 響</v-list-item-title>
             <v-list-item-subtitle>那覇店</v-list-item-subtitle>
